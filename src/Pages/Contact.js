@@ -32,7 +32,7 @@ export default function Contact() {
             onSubmit={handleSubmit}
             action="https://formspree.io/f/xqadargb"  /* optional HTML fallback */
             method="POST"
-            noValidate
+          
             className="
               relative rounded-3xl bg-white/5 p-6 md:p-8 ring-1 ring-white/10 shadow-xl backdrop-blur
               before:absolute before:inset-0 before:-z-10 before:rounded-3xl
