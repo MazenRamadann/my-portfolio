@@ -5,7 +5,7 @@ export default function Projects() {
     {
        title: "Portfolio",
       desc: "Personal site with React + Tailwind, typed hero, projects, contact form.",
-      img: "https://media.licdn.com/dms/image/v2/D4E2DAQG6kEazoGM4cA/profile-treasury-image-shrink_800_800/B4EZjgJMqNGoAc-/0/1756107166083?e=1756994400&v=beta&t=QCzHz1S6RktH9ngVigpty9qKji-OncSWuZJVw-Gpnso", // replace
+      img: "https://media.licdn.com/dms/image/v2/D4E2DAQG6kEazoGM4cA/profile-treasury-image-shrink_800_800/B4EZjgJMqNGoAc-/0/1756107166083?e=1757764800&v=beta&t=WT2TDmfRR3oo1ZMnB7S-F9j1yUW3widp5VxrWMJrVns", // replace with your screenshot
       tags: ["React", "Tailwind", "UI", "Formspree"],
       demo: "#",   // e.g. https://mazen.dev
       code: "#", 
@@ -13,7 +13,7 @@ export default function Projects() {
     {
     title: "HR System",
       desc: "Employee CRUD, auth, roles/permissions, and departments. Clean UI + REST API.",
-      img: "https://media.licdn.com/dms/image/v2/D4E2DAQFQvRsoaXBomg/profile-treasury-image-shrink_800_800/B4EZjgGfgIGYAY-/0/1756106455755?e=1756994400&v=beta&t=tuZaL0XyMqfsge6z-h9hi3wrKLKzDIYV6MsnTafFJxM", // replace with your screenshot
+      img: "https://media.licdn.com/dms/image/v2/D4E2DAQFQvRsoaXBomg/profile-treasury-image-shrink_800_800/B4EZjgGfgIGYAY-/0/1756106455755?e=1757764800&v=beta&t=yNBhT-R6hmV94FzxRlUDULLQ18YxQbTYS8V_VbWQYU8", // replace with your screenshot
       tags: ["Featured", "Laravel", "PHP", "MySQL", "REST API", "Auth", "CRUD"],
       demo: "#",   // e.g. https://hr.mazen.dev
       code: "#",   // e.g. https://github.com/MazenRamadann/hr-system
